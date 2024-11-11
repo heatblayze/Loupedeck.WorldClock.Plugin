@@ -1,4 +1,4 @@
-namespace Loupedeck.WorldClock
+namespace Loupedeck.WorldClock.Helpers
 {
     using System;
     using System.IO;

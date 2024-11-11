@@ -1,8 +1,9 @@
 ﻿namespace Loupedeck.WorldClock.Commands;
+using Helpers;
 
 public class ClockCommand : ActionEditorCommand
 {
-    public ClockCommand() : base()
+    public ClockCommand()
     {
         this.DisplayName = "World Clock";
         this.Description = "Shows a world clock";
